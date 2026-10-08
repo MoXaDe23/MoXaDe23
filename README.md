@@ -199,9 +199,10 @@ A multilingual AI-powered health assistant exploring **symptom triage, medical k
 ---
 
 ### 💳 OutlaysEA
-An AI-assisted expense management application designed around **receipt scanning, OCR, automated transaction capture, analytics, budgeting, and offline-first workflows**.
 
-**Focus:** AI-assisted development • OCR • Data architecture • PWA • Analytics
+An **offline-first personal spending intelligence platform designed for East Africa**, transforming **receipts, mobile-money transactions, and everyday purchases into structured financial data, automated categories, budgets, analytics, and actionable spending insights**.
+
+**Focus:** Receipt OCR • Mobile Money • AI Categorisation • Offline-First PWA • Personal Finance Analytics • Data Architecture
 
 ---
 
